@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="lunartools-sdk",
-    version="1.0.0",
+    version="1.0.1",
     description="Official SDK for Lunar Tools API",
     author="Lunar Tools",
     author_email="support@lunartools.co",
