@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: lunartools-sdk
+Version: 1.0.0
+Summary: Official SDK for Lunar Tools API
+Home-page: https://github.com/lunartools/lunartools-python-sdk
+Author: Lunar Tools
+Author-email: support@lunartools.co
+Keywords: lunar tools sdk api inventory orders
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.7
+Requires-Dist: requests>=2.31.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
